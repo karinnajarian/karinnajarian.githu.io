@@ -101,7 +101,7 @@ h2{
 
 .container>* {
     border: 0ch;
-    background-color: rgb(255, 255, 255);
+    /* background-color: rgb(255, 255, 255); */
     padding: 30px;
     width: 200px;
     height: 200px;
