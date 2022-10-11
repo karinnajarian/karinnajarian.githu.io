@@ -49,7 +49,7 @@ h2{
     background-color: #253140;
     opacity: 70%;
     font-family: quicksand;
-    min-height: 20%;
+    min-height: 12%;
     display: grid;
     grid-template-columns: 5em 5em 5em 5em 5em;
     font-size: 24px;
@@ -57,11 +57,13 @@ h2{
     position: fixed;
     margin-top: -190px;
     justify-content: right;
+    z-index: 10;
+    
 }
 
 .topnav>*{
-    padding-top: 80px;
-    padding-left: 80px;
+    padding-top: 40px;
+    padding-left: 100px;
     width: 10px;
     height: 10px;
     justify-content: left;
